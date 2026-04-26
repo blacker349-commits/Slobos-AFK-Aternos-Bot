@@ -3,10 +3,10 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
-    "ip": "ShadowWolf5561-ZYSw.aternos.me",
+    "ip": "basslet.aternos.host",
     "port": 27740,
     "version": "1.21.11",
     "try-creative": false
